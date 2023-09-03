@@ -1,2 +1,2 @@
 scoreboard objectives setdisplay list ts_ShulkerBox
-data modify storage hc_scoreboards:score active set value "Shulker boxes opened"
+data modify storage hc_scoreboards:score active set value "Shulkers crafted"
